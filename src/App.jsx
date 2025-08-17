@@ -16,7 +16,7 @@ function App() {
       <Home/>
      </div>
     
-    <div className='md:flex gap-5 grid md:p-10 sm:p-5 p-3 shadow-xl shadow-faint md:shadow-none  mx-5 '>
+    <div className='md:flex gap-5 grid md:p-10 sm:p-5 p-3  shadow-lightgray md:shadow-none  mx-5 shadow-around rounded-lg md:rounded-none mt-4 md:mt-0  '>
         <Side/>
         <Tst/>
         <Qr/>

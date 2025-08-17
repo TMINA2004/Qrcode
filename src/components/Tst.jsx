@@ -7,7 +7,7 @@ const Tst = () => {
      const { varr, setvar } = useContext(MyContext);
 
   return (
-    <div className='md:w-1/2 md:shadow-md md:shadow-lightgray h-fit'>
+    <div className='md:w-1/2 md:shadow-around md:shadow-lightgray h-fit'>
 
           
          {

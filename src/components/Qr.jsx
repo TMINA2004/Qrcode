@@ -10,7 +10,7 @@ const Qr = () => {
     return `${val}x${val}px`;
   };
   return (
-    <div className='flex justify-center items-center   rounded-lg  md:shadow-md md:rounded-md md:shadow-lightgray md:w-1/4  mb-5 p-6'>
+    <div className='flex justify-center items-center   rounded-lg  md:shadow-around md:rounded-md md:shadow-lightgray md:w-1/4  mb-5 p-6'>
       <div  >
         <div className='text-white md:text-2xl text-lg flex justify-center my-2' >Preview QR Code</div>
         <div className='flex items-center justify-center'>
